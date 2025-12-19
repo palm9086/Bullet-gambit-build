@@ -15,7 +15,7 @@
   </asset>
   <library_images>
     <image id="base_color_texture-image" name="base_color_texture">
-      <init_from>textures/C:\Users\User\Documents\GitHub\Bullet-gambit\LearnOpenGL-master\resources\objects\necoarc\Neco_Arc_Palette1.png</init_from>
+      <init_from>Neco_Arc_Palette1.png</init_from>
     </image>
   </library_images>
   <library_materials>
